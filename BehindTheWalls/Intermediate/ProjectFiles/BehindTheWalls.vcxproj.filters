@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BehindTheWalls.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{B67B6405-39C9-4FA2-B1AF-0E75A36498D4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BehindTheWalls.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BehindTheWallsEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{BBF1A099-B635-40D4-89F9-A9F7C36A3179}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BehindTheWalls">
+			<UniqueIdentifier>{EF8B5B6B-F910-4861-93C1-BD8B2DA2B8C2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BehindTheWalls\BehindTheWalls.Build.cs">
+			<Filter>Source\BehindTheWalls</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BehindTheWalls\BehindTheWalls.cpp">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BehindTheWalls\BehindTheWalls.h">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BehindTheWalls\BehindTheWallsCharacter.cpp">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BehindTheWalls\BehindTheWallsCharacter.h">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BehindTheWalls\BehindTheWallsGameMode.cpp">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BehindTheWalls\BehindTheWallsGameMode.h">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

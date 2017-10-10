@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BehindTheWalls.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWalls.cpp.obj"
+"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsCharacter.cpp.obj"
+"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsGameMode.cpp.obj"
+"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWalls.init.gen.cpp.obj"
+"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsCharacter.gen.cpp.obj"
+"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsGameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BehindTheWalls.lib"

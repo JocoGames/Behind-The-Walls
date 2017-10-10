@@ -1,0 +1,3 @@
+C:\Joco Games\BehindTheWalls\Source\BehindTheWalls\BehindTheWalls.Build.cs
+C:\Joco Games\BehindTheWalls\Source\BehindTheWalls.Target.cs
+C:\Joco Games\BehindTheWalls\Source\BehindTheWallsEditor.Target.cs
