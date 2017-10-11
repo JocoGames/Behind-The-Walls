@@ -84,7 +84,7 @@
 		</ProjectConfiguration>
 	</ItemGroup>
 	<PropertyGroup Label="Globals">
-		<ProjectGuid>{1C9D3ED9-3132-4030-A132-8BCFA385B5C8}</ProjectGuid>
+		<ProjectGuid>{55E56E17-6E3A-4191-AD4A-181D5EC43EE4}</ProjectGuid>
 		<Keyword>MakeFileProj</Keyword>
 		<RootNamespace>BehindTheWalls</RootNamespace>
        <PlatformToolset>v140</PlatformToolset>

@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source"
-/I "C:\Joco Games\BehindTheWalls\Source"
-/I "C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Inc\BehindTheWalls"
-/I "C:\Joco Games\BehindTheWalls\Source\BehindTheWalls"
+/I "C:\Joco Games\Behind The Walls\BehindTheWalls\Source"
+/I "C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Inc\BehindTheWalls"
+/I "C:\Joco Games\Behind The Walls\BehindTheWalls\Source\BehindTheWalls"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Async"
@@ -355,9 +355,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Inc\BehindTheWalls\BehindTheWallsCharacter.gen.cpp"
-/FI"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\Definitions.BehindTheWalls.h"
-/Fo"C:\Joco Games\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsCharacter.gen.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Inc\BehindTheWalls\BehindTheWallsCharacter.gen.cpp"
+/FI"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\Definitions.BehindTheWalls.h"
+/Fo"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
