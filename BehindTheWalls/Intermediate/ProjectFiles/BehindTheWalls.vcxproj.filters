@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="..\..\BehindTheWalls.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{09082233-9C26-4361-B08C-C69C90B43BFF}</UniqueIdentifier>
+			<UniqueIdentifier>{FF8254B2-EE42-4A1A-A5D6-C2F17353800B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BehindTheWalls.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{7F3C6013-836F-4EBE-8759-158A7B45CF23}</UniqueIdentifier>
+			<UniqueIdentifier>{8BB1A11D-B063-4A33-9BBB-35ECF755BB8B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\BehindTheWalls">
-			<UniqueIdentifier>{77FFC50E-1BB1-4197-960D-52F1C27E2E8D}</UniqueIdentifier>
+			<UniqueIdentifier>{209DE6EA-04C9-45EF-8784-A786E1104552}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BehindTheWalls\BehindTheWalls.Build.cs">
 			<Filter>Source\BehindTheWalls</Filter>

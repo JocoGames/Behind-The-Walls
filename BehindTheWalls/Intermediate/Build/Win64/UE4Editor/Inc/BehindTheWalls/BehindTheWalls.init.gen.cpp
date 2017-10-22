@@ -20,8 +20,8 @@ void EmptyLinkFunctionForGeneratedCodeBehindTheWalls_init() {}
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), nullptr, FName(TEXT("/Script/BehindTheWalls")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0x6B0C6CC8;
-			Guid.B = 0x36D5E2A1;
+			Guid.A = 0x5B91A027;
+			Guid.B = 0xA051BF25;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
 			ReturnPackage->SetGuid(Guid);
