@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\BehindTheWalls.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{FF8254B2-EE42-4A1A-A5D6-C2F17353800B}</UniqueIdentifier>
+			<UniqueIdentifier>{7015FF14-E4B3-48FF-BCE6-B89BC0D78501}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BehindTheWalls.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{8BB1A11D-B063-4A33-9BBB-35ECF755BB8B}</UniqueIdentifier>
+			<UniqueIdentifier>{1C65E3E7-40EB-4EF8-9757-3A6EB928AA1A}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\BehindTheWalls">
-			<UniqueIdentifier>{209DE6EA-04C9-45EF-8784-A786E1104552}</UniqueIdentifier>
+			<UniqueIdentifier>{221C8A47-BD7B-41CA-9FAF-924DB898A76B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BehindTheWalls\BehindTheWalls.Build.cs">
 			<Filter>Source\BehindTheWalls</Filter>
