@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeBehindTheWalls_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/BehindTheWalls",
 				PKG_CompiledIn | 0x00000000,
-				0xB7F87380,
-				0x36D5E2A1,
+				0xB2725189,
+				0xA051BF25,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

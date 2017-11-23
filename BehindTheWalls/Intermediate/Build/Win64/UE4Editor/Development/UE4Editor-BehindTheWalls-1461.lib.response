@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BehindTheWalls-1461.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWalls.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsCharacter.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsGameMode.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\Inventory.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\Item.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWalls.init.gen.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsCharacter.gen.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\BehindTheWallsGameMode.gen.cpp.obj"
+"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\Item.gen.cpp.obj"
+"C:\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\BehindTheWalls\PCLaunch.rc.res"
+"C:\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Joco Games\Behind The Walls\BehindTheWalls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BehindTheWalls-1461.lib"

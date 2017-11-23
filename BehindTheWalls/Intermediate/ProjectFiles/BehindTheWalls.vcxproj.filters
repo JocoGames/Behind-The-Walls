@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\BehindTheWalls.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{7015FF14-E4B3-48FF-BCE6-B89BC0D78501}</UniqueIdentifier>
+			<UniqueIdentifier>{7BD67072-FE79-4703-9CF7-78AF43101217}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BehindTheWalls.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{1C65E3E7-40EB-4EF8-9757-3A6EB928AA1A}</UniqueIdentifier>
+			<UniqueIdentifier>{A544D2F4-B063-41C9-86E3-BE8936D60E76}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\BehindTheWalls">
-			<UniqueIdentifier>{221C8A47-BD7B-41CA-9FAF-924DB898A76B}</UniqueIdentifier>
+			<UniqueIdentifier>{CA179E89-9E4A-45F6-9301-29BE833A6BC6}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BehindTheWalls\BehindTheWalls.Build.cs">
 			<Filter>Source\BehindTheWalls</Filter>
@@ -52,6 +52,24 @@
 			<Filter>Source\BehindTheWalls</Filter>
 		</ClCompile >
 		<ClInclude Include="..\..\Source\BehindTheWalls\BehindTheWallsGameMode.h">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BehindTheWalls\GameSave.cpp">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BehindTheWalls\GameSave.h">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BehindTheWalls\Inventory.cpp">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BehindTheWalls\Inventory.h">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BehindTheWalls\Item.cpp">
+			<Filter>Source\BehindTheWalls</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BehindTheWalls\Item.h">
 			<Filter>Source\BehindTheWalls</Filter>
 		</ClInclude >
 	</ItemGroup>
